@@ -1,1 +1,1 @@
-<?php include_once("indexM.html"); ?>
+<?php include_once("MainPage/indexM.html"); ?>
